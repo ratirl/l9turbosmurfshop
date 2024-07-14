@@ -1,0 +1,22 @@
+<?php
+//    Bestel_ItemGeenId class with all the info from the database
+//    uitsluitend gebruik om data in database te inserten
+class Bestel_ItemGeenId {
+    public $bestelling_id;
+    public $item_id;
+    public $aantal;
+    public $totaalprijs;
+
+    public function __construct($bestelling_id, $item_id, $aantal, $totaalprijs) {
+        $this->bestelling_id = $bestelling_id;
+        $this->item_id = $item_id;
+        $this->aantal = $aantal;
+        $this->totaalprijs = $totaalprijs;
+    }
+
+
+    //Extra functionality can be written here
+    
+}
+
+?>

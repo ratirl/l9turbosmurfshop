@@ -1,0 +1,21 @@
+bronnen geraadpleegd:
+
+https://teamtreehouse.com/community/how-do-i-remove-white-space-between-header-section-footer
+http://www.mysqltutorial.org/select-random-records-database-table.aspx
+https://stackoverflow.com/questions/8605516/default-select-option-as-blank
+https://www.htmlsymbols.xyz/unicode/U+2728
+https://www.w3schools.com/tags/tag_textarea.asp
+https://www.dmxzone.com/go/13811/php-getting-notice-undefined-index/
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_filter_elements
+https://www.wiliam.com.au/wiliam-blog/where-should-you-store-your-cart
+https://www.php.net/manual/en/function.setcookie.php
+https://www.youtube.com/watch?v=LC9GaXkdxF8
+https://www.php.net/manual/en/function.password-verify.php
+https://www.php.net/manual/en/function.mail.php
+https://stackoverflow.com/questions/17292176/pass-element-id-to-javascript-function
+https://htmlformatter.com/
+http://www.phpformatter.com/
+
+url van mijn werkstuk:  http://dtsl.ehb.be/~ali.trabi/index.php
+
+inlog gegevens admin: ali : gg

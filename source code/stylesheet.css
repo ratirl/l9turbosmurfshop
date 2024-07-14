@@ -1,0 +1,75 @@
+body {
+     padding:0;
+     margin:0;
+     background-color:#f4f4f4;
+}
+ .container{
+     width:80%;
+     margin:auto;
+     overflow:hidden;
+}
+ section img {
+     height: 200px;
+     width: 200px;
+}
+ header, nav, section, footer {
+     margin: 0;
+     padding: 1px;
+     text-align: center;
+}
+ header {
+     background-image: url(img/header.jpg);
+     height: 123px;
+}
+ header h1{
+     color:antiquewhite;
+     padding-top: 30px;
+}
+ nav {
+     background-color: darkred;
+     height: 50px;
+}
+ section {
+     background-color: mistyrose;
+}
+ footer {
+     color: antiquewhite;
+     text-decoration:none;
+     text-transform: uppercase;
+     font-size:16px;
+     padding-top: 10px;
+}
+ nav a{
+     color: antiquewhite;
+     text-decoration:none;
+     text-transform: uppercase;
+     font-size:16px;
+}
+ select.selected{
+     text-decoration: none;
+     background-color: dimgrey;
+     color: aqua;
+}
+ .filterDiv {
+     display: none;
+}
+ .show {
+     display: block;
+}
+ .categorie{
+     text-transform: uppercase;
+     color:antiquewhite;
+     display:inline-block;
+}
+ .buttonwinkel{
+     background-color: green;
+     color:antiquewhite;
+     visibility: hidden;
+}
+ .item:hover .buttonwinkel{
+     visibility: visible;
+}
+ .test{
+     color: red;
+}
+ #more {display: none;}
